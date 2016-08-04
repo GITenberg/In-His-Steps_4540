@@ -1,0 +1,42 @@
+_repo: In-His-Steps_4540
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sheldon, Charles M.
+    alias: Sheldon, Charles Monroe
+    birthdate: 1857
+    deathdate: 1946
+    gutenberg_agent_id: '1495'
+    url: http://www.gutenberg.org/2009/agents/1495
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Sheldon
+description: "In His Steps is a best-selling religious fiction novel written by Charles\
+  \ Monroe Sheldon. First published in 1896, the book has sold more than 30,000,000\
+  \ copies, and ranks as one of the best-selling books of all time. The full title\
+  \ of the book is In His Steps: What Would Jesus Do?.\nThough variations of the subtitle\
+  \ \"What would Jesus do\" have been used by Christians for centuries as a form of\
+  \ imitatio dei, the imitation of God, it gained much greater currency following\
+  \ publication of the book.\nChicago Advance, the original publisher, failed to register\
+  \ the copyright in the proper form. Other publishers took advantage of this, publishing\
+  \ the book without paying the author royalties. Thus lower prices and multiple publishers\
+  \ led to larger sales.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4540'
+  wikidata: Q8017321
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Jesus Christ -- Influence -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: In His Steps
+url: http://www.gutenberg.org/ebooks/4540
+wikipedia:
+- https://en.wikipedia.org/wiki/In_His_Steps
+- https://ko.wikipedia.org/wiki/%EC%98%88%EC%88%98%EB%9D%BC%EB%A9%B4_%EC%96%B4%EB%96%BB%EA%B2%8C_%ED%96%88%EC%9D%84_%EA%B2%83%EC%9D%B8%EA%B0%80
+- https://pt.wikipedia.org/wiki/Em_Seus_Passos_o_Que_Faria_Jesus%3F
