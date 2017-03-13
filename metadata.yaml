@@ -1,5 +1,8 @@
 _repo: In-His-Steps_4540
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sheldon, Charles M.
@@ -19,6 +22,8 @@ description: "In His Steps is a best-selling religious fiction novel written by 
   \ the copyright in the proper form. Other publishers took advantage of this, publishing\
   \ the book without paying the author royalties. Thus lower prices and multiple publishers\
   \ led to larger sales.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4540#In-His-Steps
 gutenberg_issued: '2003-10-01'
 gutenberg_type: Text
 identifiers:
